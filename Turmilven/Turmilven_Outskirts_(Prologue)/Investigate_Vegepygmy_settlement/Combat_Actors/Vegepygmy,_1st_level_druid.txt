@@ -1,0 +1,46 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-03-03T22:07:40+00:00
+
+====== Vegepygmy, 1st level druid ======
+Created Sunday 03 March 2019
+
+**AC:** 13 (natural)
+**Hit points:** 12 (3d6 + 2)
+**Speed:** 30ft/t
+**Str:** 7 (-2) **Dex:** 14 (+2) **Con:** 13 (+1) **Int:** 10 (0) **Wis:** 11 (0) **Cha:** 7 (-2)
+**Damage Resistances:** Lightning, Piercing
+**Skills:** Perception +2, Stealth +4
+**Senses:** ~~Darkvision 60ft~~ //(plant variant)// Passive Perception 12
+**Languages:** Vegepygmy, Druidic
+
+Challenge 1 (200 XP)
+
+**Plant Camouflage:** The Vegepygmy has advantage on Dexterity (Stealth) checks it makes in any terrain with ample obscuring plant life.
+
+**Regeneration:** The vegepygmy regains 3 hit points at the start of its turn. If it takes cold, fire, or necrotic damage, this trait doesn't function at the start of the vegepygmy's next turn. The vegepygmy dies only if it starts its turn with 0 hit points and doesn't regenerate. 
+
+**Actions:**
+
+**Dagger: **Melee Weapon Attack: +4 to hit, reach 5ft, one target.
+Hit: 1d4 + 4
+
+**Claws:** Melee Weapon Attack: +4 to hit, reach 5ft., one target.
+//Hit//: 5 (1d6+2) slashing damage.
+
+**Sling**: Ranged Weapon Attack: 4 to hit, reach 5 ft. or range 30/120 ft., one target.
+//Hit//: 4 (1d4+2) bludgeoning damage.
+
+**Spells:** 
+**Cantrips:** 
+//Druidcraft//
+//Thorn Whip//
+**Level 1: **//(1 slot)//
+//Entangle//
+
+**Tactics:**
+
+Support caster preference, will cast Entangle on most prominent at initiation, Disengage at 8hp, re-engage at full health. Shrieks if hit by cold/fire/necrotic damage, causing allies to swarm damage dealer. Whistles at <3hp, if half of group are whistling, rout.
+
+**Accoutrements: **Sheep skull with twigs attached to resemble antlers, sacrificial dagger fashioned out of a rusty plough blade
+

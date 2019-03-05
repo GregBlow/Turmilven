@@ -1,0 +1,34 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-03-03T19:19:03+00:00
+
+====== Vegepygmy ======
+Created Sunday 03 March 2019
+
+**AC:** 13 (natural)
+**Hit points:** 9 (2d6 + 2)
+**Speed:** 30ft/t
+**Str:** 7 (-2) **Dex:** 14 (+2) **Con:** 13 (+1) **Int:** 6 (-2) **Wis:** 11 (0) **Cha:** 7 (-2)
+**Damage Resistances:** Lightning, Piercing
+**Skills:** Perception +2, Stealth +4
+**Senses:** ~~Darkvision 60ft~~ //(plant variant)// Passive Perception 12
+**Languages:** Vegepygmy
+
+Challenge 1/4 (50 XP)
+
+**Plant Camouflage:** The Vegepygmy has advantage on Dexterity (Stealth) checks it makes in any terrain with ample obscuring plant life.
+
+**Regeneration:** The vegepygmy regains 3 hit points at the start of its turn. If it takes cold, fire, or necrotic damage, this trait doesn't function at the start of the vegepygmy's next turn. The vegepygmy dies only if it starts its turn with 0 hit points and doesn't regenerate. 
+
+**Actions:**
+
+**Claws:** Melee Weapon Attack: +4 to hit, reach 5ft., one target.
+//Hit//: 5 (1d6+2) slashing damage.
+
+**Sling**: Ranged Weapon Attack: 4 to hit, reach 5 ft. or range 30/120 ft., one target.
+//Hit//: 4 (1d4+2) bludgeoning damage.
+
+**Tactics:**
+
+Skirmish preference, Disengage at 6hp, re-engage at full health. Shrieks if hit by cold/fire/necrotic damage, causing allies to swarm damage dealer. Whistles at <3hp, if half of group are whistling, rout.
+

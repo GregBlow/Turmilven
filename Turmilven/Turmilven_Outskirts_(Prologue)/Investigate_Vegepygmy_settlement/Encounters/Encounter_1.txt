@@ -1,0 +1,18 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-03-03T21:50:24+00:00
+
+====== Encounter 1 ======
+Created Sunday 03 March 2019
+
+(Party of 5 lvl 3 threshold = 375xp, 4 * vegepygmy = (50*2*4) 400). Encounter 1
+
+Initial disposition hostile.
+
+Probable ambush by weak forces who will attempt to:
+
+1) Raise Alarm
+2) Subdue
+3) Retreat
+
+Will require surrender of weapons to escort to camp peacefully.

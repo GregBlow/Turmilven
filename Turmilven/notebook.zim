@@ -1,0 +1,12 @@
+[Notebook]
+version=0.4
+name=Turmilven
+interwiki=
+home=Home
+icon=
+document_root=~/Documents/DandD/Turmilven
+shared=True
+endofline=dos
+disable_trash=False
+profile=
+

@@ -1,0 +1,20 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-03-03T18:34:25+00:00
+
+====== Investigate Vegepygmy settlement ======
+Created Sunday 03 March 2019
+
+Approaching the Vegepygmy village in the wheat field, there is a passive chance of reaching the village without detection (2d20 > 37), if sneak up on it DC20 Survival check.
+
+If either check fails, easy encounter (sentries) in wheat field. Vegepygmies have advantage on stealth check for ambush.  Encounter 1
+
+If the alarm is raised and the party stops for a rest, Encounter 2 begins at rests end.
+ 
+On arriving at the village, the party observes a druid conducting a ritual with an audience. A pumpkin is resting on a large flat stone, ostensibly brought to serve as an altar. More large stones are upright around this altar in a circle.Druid plunges sacrificial dagger into the heart of the pumpkin, reaches in and pulls out a mass of pulp and seeds, at which the spectators exult. On noticing the party after this point, the spectators flee towards the rest of the buildings, encounter 3 starts.
+
+If subdued, Calpendo arrives to rescue.
+
+[[+Combat Actors:Vegepygmy]]
+[[+Combat Actors:Vegepygmy chief]]
+[[+Combat Actors:Thorny]]

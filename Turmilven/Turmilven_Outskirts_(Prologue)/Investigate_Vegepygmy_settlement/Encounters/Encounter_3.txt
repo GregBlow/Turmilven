@@ -1,0 +1,23 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-03-04T00:56:09+00:00
+
+====== Encounter 3 ======
+Created Monday 04 March 2019
+
+Part 1
+
+(Party of 5 lvl 3 threshold = 750xp, 1 * vegepygmy druid = 200, 1* thorny = 200 = (400 * 1.5) 600. 
+
+Initial disposition hostile.
+
+Probable ambush by weak forces who will attempt to:
+
+1) Subdue
+2) Retreat
+
+Part 2
+
+Arrival of Chief and escort (fetching villager)
+
+(Party of 5 lvl 3 threshold = 750xp, 1 * vegepygmy chief = 450,  1 * vegepygmy = 50 = (450 + 50 * 1.5) * 750 .

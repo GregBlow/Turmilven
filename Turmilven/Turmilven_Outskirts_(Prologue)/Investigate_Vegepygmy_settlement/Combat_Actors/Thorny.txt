@@ -1,0 +1,32 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-03-03T19:31:47+00:00
+
+====== Thorny ======
+Created Sunday 03 March 2019
+
+**AC:** 14 (natural)
+**Hit points:** 27 (5d8 + 5)
+**Speed:** 30ft/t
+**Str:** 13 (+1) **Dex:** 12 (+1) **Con:** 13 (+1) **Int:** 2 (-4) **Wis:** 10 (0) **Cha:** 6 (-2)
+**Damage Resistances:** Lightning, Piercing
+**Skills:** Perception +4, Stealth +3
+**Senses:** ~~Darkvision 60ft~~ //(plant variant)// Passive Perception 14
+**Languages:** -
+
+Challenge 1 (200 XP)
+
+**Plant Camouflage:** The thorny has advantage on Dexterity (Stealth) checks it makes in any terrain with ample obscuring plant life.
+
+**Regeneration:** The thorny regains 5 hit points at the start of its turn. If it takes cold, fire, or necrotic damage, this trait doesn't function at the start of the vegepygmy's next turn. The vegepygmy dies only if it starts its turn with 0 hit points and doesn't regenerate. 
+
+**Actions:**
+
+**Bite:** Melee Weapon Attack: +3 to hit, reach 5ft., one target.
+//Hit//: 8 (2d6+1) piercing damage.
+
+**Tactics:**
+
+Brute, retreat with mob or if taking fire/cold/necrotic damage.
+
+**Accoutrements: **Shape of badger/fox

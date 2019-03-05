@@ -1,0 +1,18 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-03-04T01:10:15+00:00
+
+====== Encounter 2 ======
+Created Monday 04 March 2019
+
+(Party of 5 lvl 3 threshold = 750xp, 1* thorny, 4 * vegepygmy = ((200 + 50*4)*4) 600). 
+
+Initial disposition hostile.
+
+Probable ambush by weak forces who will attempt to:
+
+1) Raise Alarm
+2) Subdue
+3) Retreat
+
+Will require surrender of weapons to escort to camp peacefully.
