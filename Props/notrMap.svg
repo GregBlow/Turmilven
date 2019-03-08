@@ -183,16 +183,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="4.2837302"
-     inkscape:cx="249.32223"
-     inkscape:cy="346.49948"
+     inkscape:cx="214.58469"
+     inkscape:cy="417.50458"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer7"
+     inkscape:current-layer="layer8"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     inkscape:snap-global="true" />
   <metadata
      id="metadata1964">
     <rdf:RDF>
@@ -428,6 +429,21 @@
        id="rect967"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 94.160299,76.239107 c -0.514442,0.409496 -1.029152,0.819253 -1.544124,1.229275 0.288663,0.360233 0.715679,1.159497 0.715679,1.159497 l -28.824999,19.915455 -1.965341,5.328256 -5.808675,-1.7033 2.576782,-9.914047 28.999696,-19.653408 1.65962,1.74697 1.619144,-1.173692"
+       id="path878"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 64.506855,98.543334 62.978257,96.272272"
+       id="path886"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 61.362309,93.913864 59.790036,91.861173"
+       id="path890"
+       inkscape:connector-curvature="0" />
   </g>
   <path
      style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
