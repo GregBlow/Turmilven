@@ -182,11 +182,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="50.577552"
-     inkscape:cy="195.60706"
+     inkscape:zoom="4.2837302"
+     inkscape:cx="249.32223"
+     inkscape:cy="346.49948"
      inkscape:document-units="mm"
-     inkscape:current-layer="svg1967"
+     inkscape:current-layer="layer7"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
@@ -410,7 +410,7 @@
      inkscape:groupmode="layer"
      id="layer7"
      inkscape:label="Trees"
-     style="opacity:0.43300003">
+     style="opacity:0.91000001">
     <path
        sodipodi:nodetypes="ssssssssssssssssssssssssssssssssss"
        inkscape:connector-curvature="0"
@@ -429,4 +429,8 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
   </g>
+  <path
+     style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 91.588082,73.174114 a 2.0008314,2.0005331 0 0 1 2.818835,0.24658 2.0008314,2.0005331 0 0 1 -0.246616,2.818415"
+     id="path994" />
 </svg>
