@@ -1,0 +1,25 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-03-07T22:56:08+00:00
+
+====== Violet Fungus ======
+Created Thursday 07 March 2019
+
+**AC:** 5 (natural, shield)
+**Hit points:** 18 (4d8)
+**Speed:** 5ft/t
+**Str:** 3 (-4) **Dex:** 1 (-5) **Con:** 10 (0) **Int:** 1 (-5) **Wis:** 3 (-4) **Cha:** 1 (-5)
+**Condition Immunities: **blinded, deafened, frightened
+**Senses:** Blindsight 30 ft. (blind beyond this radius), passive perception 6
+**Languages:** -
+
+Challenge 1/4 (50 XP)
+
+**False Appearance: **While the violet fungus remains motionless, it is indistinguishable from an ordinary fungus.
+
+**Actions:**
+
+**Multiattack**: The fungus makes 1d4 Rotting Touch attacks.
+
+**Rotting touch:** Melee Weapon Attack: +2 to hit, reach 10ft., one target.
+//Hit//: 4 (1d8) necrotic damage.

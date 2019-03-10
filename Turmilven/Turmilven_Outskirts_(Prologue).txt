@@ -13,11 +13,19 @@ As you approach closer, you see that the farmer's antagonist has a richly hued g
 
 Mrs Giles leaves the house upon seeing the assault has ended, to tend to Farmer Giles, who has sustained some nasty bruises and has a small limp, but is not otherwise badly injured. Young Giles also leaves the house, but is told on wait on the porch, is kept company by Gilly the dog. 
 
+[[+Characters:Farmer Giles]]
+
 Situation:
 
 Farmer Giles, suffering from pests, acquired some magic beans from the Wizard Calpendo, which grew into plants that could defend themselves. Gradually became standoffish, then violent towards people. From up in the hills travellers have seen a clearing in the field they came from, with what look to be thatch structures and a low wall of stone. 
 
 [[+Investigate Vegepygmy settlement]]
+[[+Characters:Vegepygmy Chief]]
+[[+Characters:Vegepygmy Druid]]
+[[+Characters:Other Vegepygmies]]
 
- Once the vegepygmy situation is resolved, the party will encounter the wizard Calpendo and novice monk Odsa, if they have not done so already, and learn that the bridge over the river ahead of them has been washed away. They are invited to accompany 
+If not introduced in previous section, the party meets Calpendo and Odsa, who inform them that the path ahead is impassable as the bridge has been washed away. Are invited to accompany to monastery. 
+
+[[Turmilven Monastery (Main)]]
+ 
 

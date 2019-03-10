@@ -1,0 +1,18 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-03-05T23:54:36+00:00
+
+====== Investigate Caves ======
+Created Tuesday 05 March 2019
+
+If descent by well mechanism, mechanism will break when close to water, begin in well chamber.
+
+The caves are comprised of narrow upper passageways that lead down past evidence of past use by an ancient culture (not of plot significance), sconces etc. Reachs a partially flooded cave with Kuo-Toa sentries, one of which should run to the shrine chamber on taking some damage, bringing reinforcements. Connects to well chamber by underwater passage and shrine chamber by dry passage.
+
+Shrine chamber has an ancient diety statue bearing a metal helmet with glowing eyes (dread helm).  This helmet should be caused to topple, with the statue, and kill the Kuo-Toa leader, causing a full rout to the sound of Kuo-Toa shouting 'The Helmet!' in a fit of religious dread.
+
+ Fernantius should be found dead in the well chamber, in same condition as Vandelmo, else dead of violet fungus (roll on , as well as violent fungus growing out of and around dead Kuo-Toa, leaking an oily, antibiotic film into the water, taking on a particularly iridescent sheen where the Kuo-Toa bodies lie. There should be a final route out of the well chamber under water following the bore for a while, which leads eternally unto more empty or dangerous chambers until party is dissuaded to turn back.
+
+If Party did not descend well, bucket, should be floating, suspended in the well (sent by Calpendo) as a horseshoe mechanism.
+
+**Notes**: In this section, the main narrative take away is that a residue from dead kuo-toa (whose madness is considered innate) and violet fungus is leaching into the water, constituting a poison.

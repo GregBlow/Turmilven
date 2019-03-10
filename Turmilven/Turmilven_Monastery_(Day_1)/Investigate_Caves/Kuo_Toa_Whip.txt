@@ -1,0 +1,39 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-03-06T00:07:48+00:00
+
+====== Kuo Toa Whip ======
+Created Wednesday 06 March 2019
+
+**AC:** 11 (natura)
+**Hit points:** 65 (10d8 + 20)
+**Speed:** 30ft/t, swim 30ft/t
+**Str:** 14 (+2) **Dex:** 10 (0) **Con:** 14 (+2) **Int:** 12 (+1) **Wis:** 14 (+2) **Cha:** 11 (0)
+**Skills:** Perception +6, Religion +4
+**Senses:** Darkvision 120ft , Passive Perception 14
+**Languages:** Undercommon
+
+Challenge 1 (200 XP)
+
+**Amphibious: **The kuo-toa can breathe air and water.
+
+**Otherworldly Perception:** The kuo-toa can sense the presence of any creature within 30 feet of it that is invisible or on the ethereal plane. it can pinpoint such a creature that is moving.
+
+**Slippery:** The kuo-toa has advantage on ability checks and saving throws made to escape a grapple.
+
+**Sunlight Sensitivity: **While in sunlight, the kuo-toa has disadvntage on attack rolls, as well as on wisdom (perception) checks that rely on sight.
+
+**Spellcasting: ** The kuo-toa is a 2nd-level spellcaster. Its spellcasting ability is Wisdom (Spell save DC 12, +4 to hit with spell attacks). The kuo-toa has the following cleric spells prepared:
+
+Cantrips (at will): sacred flame, thaumaturgy
+1st level (3 slots): bane, shield of faith
+
+**Actions:**
+
+**Multiattack: **The kuo-toa makes two attacks: one with its bite and one with its pincer staff.
+
+**Bite:** Melee Weapon Attack: +3 to hit, reach 5ft., one target.
+//Hit//: 3 (1d4+1) piercing damage.
+
+**Pincer Staff:** Melee Weapon Attack: +4 to hit, reach 10ft, one target.
+//Hit:// 5 (1d6+2) piercing damage. If the target is a Medium or smaller creature, it is grappled (escape DC 14. Until this grapple ends, the kuo-toa can't use its pincer staff on another target.

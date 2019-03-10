@@ -1,0 +1,35 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-03-05T21:51:21+00:00
+
+====== Turmilven Monastery (Day 1) ======
+Created Tuesday 05 March 2019
+
+As the sun is setting, the party, Calpendo, and Odsa climb the road to the monastery. They arrive to see a monk ringing a handbell outside a building ajoining the church (chapter house) ahead of them, and more monks making haste there. Party is encouraged to attend. A meeting is being held to announce that Vandelmo has been found dead outside the monastery walls. Most reactions are as one would expect of such an event, though [[+Characters:]]Bilinga[[+Characters:Bilingar|r]] is notably distraught, and [[+Characters:Golachi]] and [[+Characters:Dord]] are more stoic in receiving the news than might be expected. After announcement is finished, meeting is dismissed and Calpendo and the party are summoned by the abbot +Characters:Dallabo. They are charged with investigating the death, noting that they appeared to have thrown themselves, or been thrown, from the upper library, which is off limits to all but the librarian and the librarian's assistant. They will still not be permitted in the library, but  should make enquiries. A scandal that might disrupt the upcoming negotiations to the embarrassment of the monastery is feared. Party is encouraged to retire for the night in appropriate quarters (suggested long rest). 
+
+In the morning, the party has breakfast with Calpendo and Cesena (who is indifferent/dismissive of party, cordial with Calpendo) at direction of cellarer (who is pragmatic, not unfriendly. Inconspicuous), who suggests they examine the body, then take a look at the Aedificium. At points in the day, mild aspersions should be cast on cellarer Remigeco's virtue (appropriation of monastery resources).
+
+**Vandelmo examination**
+
+Travelling to the herbalists hut, will see orchard and herb garden, note infirmary on left. Examination will yield no suspicious injuries, only those one would expect from a long fall. Tongue and fingers stained very dark purple (looks black). Kerig will be assistant here.
+
+**Aedificium tour**
+ 
+Approaching Aedificium, noting architecture and frieze depicting theological scene in stonework/on door, will encounter Zalvrat and his spiel:
+
+"Penitenziagite! Beware the Draco who cometh in futurum to gnaw your anima! Death is super nos! Pray the Santo Pater come to liberar nos a malo and all our sin!"
+
+Brief discussion that gets onto topic of relation to cellarer, joint history with similar seditious activities as Umbertino.
+
+Will meet Umbertino here, who will tell the party about the aedificium. (Lower chambers: Well expanded by Calpendo, driven by mule driven mechanism, Ink manufactory/stationary cupboard, can find Calligraphers kit here, treasury, crypt/ossuary. Ground floor: Copyists area, also calligraphers tools and cartographers tools, Corellion statues in nave of each wing, prompting discussion of symbolic significance of position.. Upper floors: Lower Library, Upper Library). Will have discussion with Calpendo, catching up on Ubertino's misadventures that resulted in their seeking refuge in the monastery. If lower library is explored, will find Fernantius acting reservedly furtive and secretive. Will be told of way monks defer to Dord n respect of his intellect and piety. Umbertino gives account of Cellarer. Should be adverted to legends on descending ramp and ascending latticework that might represent persistence in world of adventure.
+
+Between the first and second activities Calpendo will meet Dord, and make an argument for pragmatism, preferably framing as a pious balance, which will be refuted sternly by Dord, arguing for the sacredness of principle. Will suggest should have access to library, vehemently refused. 
+
+After second activity Fernantius will fall in well from upper library floor, preferably being witnessed by party with a long aaaaaAAAAAaaaaaaaaa..... (and a *donk* hitting the bucket on the way down) History of location and caves below, ways of accessing them (e.g. walled off lower chambers, bucket)
+
+ [[+Investigate Caves]]
+
+After return, Calpendo should secretly suggest midnight infiltration of library. Familiar has scouted from outside. Can take homunculus as comedy relief and impediment/unlikely asset while Calpendo has dinner with Abbot and discusses investigation.
+
+[[+Upper Library Infiltration]]
+
