@@ -1,0 +1,32 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-03-11T19:21:27+00:00
+
+====== Grey Ooze ======
+Created Monday 11 March 2019
+
+**AC:** 13 (natural, shield)
+**Hit points:** 18 (4d8)
+**Speed:** 30ft/t, swim 30ft/t
+**Str:** 13 (+1) **Dex:** 10 (0) **Con:** 11 (0) **Int:** 11 (+0) **Wis:** 11 (0) **Cha:** 8 (-1)
+**Skills:** Perception +4
+**Senses:** Darkvision 120ft , Passive Perception 14
+**Languages:** Undercommon
+
+Challenge 1/4 (50 XP)
+
+**Amorphous: **The ooze can move through a space as narrow as 1 inch wide without squeezing.
+
+**Corrode Metal: **Any nonmagical weapon made of metal that hits the ooze corrodes. After dealing damage, the weapon takes a permanent and cumulative -1 penalty to damage rolls. If its penalty drops to -5, the weapon is destroyed. Nonmagical ammunition made of metal that hits the ooze is destroyed after dealing damage.
+
+The ooze can eat through 2-inch thick, nonmagical metal in 1 round. 
+
+**False Appearance:** While the ooze remains motionless, it is indistinguishable from an oily pool or wet rock.
+
+**Actions:**
+
+**Pseudopod: **MeleeWeapon Attack: +3 to hit, reach 5ft, one target. Hit: 4 (1d6 + 1) bludgeoning damage plus 7 (2d6) acid damage, and if the target is wearing nonmagical metal armor, its armor is partly corroded and takes a permanent and cumulative -1 penalty to the AC is offers. The armor is destroyed if the penalty reduces its AC to 10.
+
+**Tactics:**
+
+Skirmish preference, Disengage at 6hp, re-engage at full health. Shrieks if hit by cold/fire/necrotic damage, causing allies to swarm damage dealer. Whistles at <3hp, if half of group are whistling, rout.
