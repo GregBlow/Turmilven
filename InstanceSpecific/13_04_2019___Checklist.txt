@@ -1,0 +1,68 @@
+Map, underground
+Map, Grounds
+Maps, Aedificium (l = -1, 0, 1, 2)
+Map, Reeth (updated)
+
+P.Char sheets: 
+Daella
+Enna
+Crystal
+(Joe)
+(Izzy)
+(Nora)
+
+NP.Char sheets:
+Dord (combat/motivations)
+Remigeco (combat/motivations)
+Fossan (combat/motivations)
+Bilingar (motivations)
+Zalvrat (combat/motivations)
+Kerig (combat/motivations)
+Gui D'Om (combat/motivations)
+Calpendo (combat/motivations)
+Odsa (motivations)
+Golachi (motivations)
+
+Fernantius (motivations)
+
+Stock Monk (combat)
+Kuo Toa (combat)
+Kuo Toa Whip (combat)
+Grey Ooze (combat)
+Mailed Fist Fingerman (combat)
+
+Item definitions:
+Dread Helmet
+Calpendo's glasses of investigation
+
+Books/Papers:
+Dragon Legends
+Theological significance of dragons
+the Apocalypse
+Maps of Reeth
+Ecology of Elfwood
+Poetry of Dwarfhold
+Rise and Fall of the Empire of Krull
+Anthropology of Troll Fjord
+Artificers Handbook of simple arcana
+Vandelmo's diagrams
+
+
+Forgers kit
+Calligraphers kit
+Cartographers kit
+
+Phenomena & Epiphenomena
+
+Fire suppressant and amplifying 
+Theogenic water
+Reifying pigments
+Reality dampening censor
+
+Plots
+Death of Vandelmo
+Subversion of Cult
+Architecture of the apocalypse
+Subordination of the landed gentry
+Defence of noble privilege
+Promotion of the faith
