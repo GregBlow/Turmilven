@@ -15,7 +15,7 @@
    viewBox="0 0 744.09448819 1052.3622047"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="elf ranger spells.svg">
   <defs
      id="defs4" />
@@ -27,16 +27,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="409.16936"
-     inkscape:cy="422.56036"
+     inkscape:cx="165.59793"
+     inkscape:cy="593.98893"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
      showguides="false"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1280"
-     inkscape:window-height="657"
-     inkscape:window-x="-8"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
      inkscape:window-y="-8"
      inkscape:window-maximized="1">
     <inkscape:grid
@@ -45,19 +45,23 @@
     <sodipodi:guide
        position="-1237.1429,1317.1429"
        orientation="-0.70710678,0.70710678"
-       id="guide4138" />
+       id="guide4138"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="480,12.857143"
        orientation="0,1"
-       id="guide4929" />
+       id="guide4929"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="717.14286,474.28572"
        orientation="1,0"
-       id="guide4557" />
+       id="guide4557"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="59.285714,890.00001"
        orientation="1,0"
-       id="guide4650" />
+       id="guide4650"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -67,7 +71,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -85,15 +89,15 @@
        width="151.25887" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="113.13709"
        y="406.87473"
-       id="text4450"
-       sodipodi:linespacing="125%"><tspan
+       id="text4450"><tspan
          sodipodi:role="line"
          id="tspan4452"
          x="113.13709"
-         y="406.87473" /></text>
+         y="406.87473"
+         style="font-size:12.5px;line-height:1.25"> </tspan></text>
     <rect
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.07516241;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4220-1-2"
@@ -103,15 +107,15 @@
        y="13.191534" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:7.5px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="342.37946"
        y="56.923431"
-       id="text4160-48"
-       sodipodi:linespacing="125%"><tspan
+       id="text4160-48"><tspan
          sodipodi:role="line"
          x="342.37946"
          y="56.923431"
-         id="tspan4166-7">CLASS &amp; LEVEL</tspan></text>
+         id="tspan4166-7"
+         style="font-size:7.5px;line-height:1.25">CLASS &amp; LEVEL</tspan></text>
     <rect
        style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4220-1"
@@ -121,37 +125,37 @@
        y="17.460926" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:7.5px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="478.25687"
        y="57.914936"
-       id="text4160-3"
-       sodipodi:linespacing="125%"><tspan
+       id="text4160-3"><tspan
          sodipodi:role="line"
          x="478.25687"
          y="57.914936"
-         id="tspan4166-2">SPELLCASTING</tspan></text>
+         id="tspan4166-2"
+         style="font-size:7.5px;line-height:1.25">SPELLCASTING</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:7.5px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="580.01843"
        y="57.7896"
-       id="text4160-3-7"
-       sodipodi:linespacing="125%"><tspan
+       id="text4160-3-7"><tspan
          sodipodi:role="line"
          x="580.01843"
          y="57.7896"
-         id="tspan4166-2-7">ATTACK BONUS</tspan></text>
+         id="tspan4166-2-7"
+         style="font-size:7.5px;line-height:1.25">ATTACK BONUS</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:7.5px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="673.33606"
        y="57.927021"
-       id="text4160-3-7-2"
-       sodipodi:linespacing="125%"><tspan
+       id="text4160-3-7-2"><tspan
          sodipodi:role="line"
          x="673.33606"
          y="57.927021"
-         id="tspan4166-2-7-9">SAVE DC</tspan></text>
+         id="tspan4166-2-7-9"
+         style="font-size:7.5px;line-height:1.25">SAVE DC</tspan></text>
     <path
        style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 29.885732,111.65764 c -0.0506,-5.94139 3.09186,-5.80838 6.60715,-5.80838 l 674.810158,0 c 5.8715,-0.13474 6.7232,2.6587 6.9643,5.80838 l 0,921.70016 c -0.9333,2.5564 1.228,6.1543 -6.9643,6.2674 l -674.810158,0 c -3.13159,-0.6953 -6.26418,-1.3891 -6.60715,-6.2674 z"
@@ -174,40 +178,37 @@
        y="499.52621" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:0.98431373;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:0.98431373;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="59.26096"
        y="133.53842"
-       id="text4227-2-3-5-4-4"
-       sodipodi:linespacing="125%"><tspan
+       id="text4227-2-3-5-4-4"><tspan
          sodipodi:role="line"
          id="tspan4229-9-4-6-4-2"
          x="59.26096"
          y="133.53842"
-         style="font-size:12.5px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:0.98431373">LEVEL 1:</tspan></text>
+         style="font-size:12.5px;line-height:1.25;text-align:start;text-anchor:start;fill:#000000;fill-opacity:0.98431373">LEVEL 1:</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:0.98431373;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:0.98431373;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="142.37875"
        y="133.1813"
-       id="text4227-2-3-5-4-4-4"
-       sodipodi:linespacing="125%"><tspan
+       id="text4227-2-3-5-4-4-4"><tspan
          sodipodi:role="line"
          id="tspan4229-9-4-6-4-2-4"
          x="142.37875"
          y="133.1813"
-         style="font-size:12.5px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:0.98431373">SPELL SLOTS:</tspan></text>
+         style="font-size:12.5px;line-height:1.25;text-align:start;text-anchor:start;fill:#000000;fill-opacity:0.98431373">SPELL SLOTS:</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#808080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#808080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="602.77588"
        y="133.1813"
-       id="text4227-2-3-5-4-4-4-3"
-       sodipodi:linespacing="125%"><tspan
+       id="text4227-2-3-5-4-4-4-3"><tspan
          sodipodi:role="line"
          id="tspan4229-9-4-6-4-2-4-6"
          x="602.77588"
          y="133.1813"
-         style="font-size:10px;text-align:start;text-anchor:start;fill:#808080;fill-opacity:1">SPELLS KNOWN:</tspan></text>
+         style="font-size:10px;line-height:1.25;text-align:start;text-anchor:start;fill:#808080;fill-opacity:1">SPELLS KNOWN:</tspan></text>
     <rect
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#808080;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4220-8-0-89-6"
@@ -229,164 +230,146 @@
      inkscape:label="stat fill">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="567.88513"
        y="41.585838"
-       id="text4282-0"
-       sodipodi:linespacing="125%"><tspan
+       id="text4282-0"><tspan
          sodipodi:role="line"
          id="tspan4284-07"
          x="567.88513"
          y="41.585838"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">+4</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">+4</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="661.91705"
        y="41.83094"
-       id="text4282-0-0"
-       sodipodi:linespacing="125%"><tspan
+       id="text4282-0-0"><tspan
          sodipodi:role="line"
          id="tspan4284-07-2"
          x="661.91705"
          y="41.83094"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">12</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">12</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="459.48926"
        y="41.204216"
-       id="text4282-0-0-4"
-       sodipodi:linespacing="125%"><tspan
+       id="text4282-0-0-4"><tspan
          sodipodi:role="line"
          id="tspan4284-07-2-9"
          x="459.48926"
          y="41.204216"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:sans-serif">WIS</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif">WIS</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="61.82188"
        y="170.64001"
-       id="text4223-85-3-1"
-       sodipodi:linespacing="125%"><tspan
+       id="text4223-85-3-1"><tspan
          sodipodi:role="line"
          x="61.82188"
          y="170.64001"
-         style="font-size:10px"
+         style="font-size:10px;line-height:1.25"
          id="tspan6403"><tspan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
    id="tspan4605">Hail of Thorns:</tspan> Casting time: 1 bonus action. Range: Self. Components: V. Duration: Concentration, up to 1 min.</tspan><tspan
          sodipodi:role="line"
          x="61.82188"
          y="183.14001"
-         style="font-size:10px"
+         style="font-size:10px;line-height:1.25"
          id="tspan4607">     The next time you hit a creature with a ranged weapon attack before the spell ends, this spell creates a rain of thorns that </tspan><tspan
          sodipodi:role="line"
          x="61.82188"
          y="195.64001"
-         style="font-size:10px"
+         style="font-size:10px;line-height:1.25"
          id="tspan6553">sprouts from your ranged weapon or ammunition. In addition to the normal effect of the attack, the target of the attack and</tspan><tspan
          sodipodi:role="line"
          x="61.82188"
          y="208.14001"
-         style="font-size:10px"
+         style="font-size:10px;line-height:1.25"
          id="tspan6555">each creature within 5 feet of it must make a DEX saving throw. On a failed save a creature takes 1d10 piercing damage, half </tspan><tspan
          sodipodi:role="line"
          x="61.82188"
          y="220.64001"
-         style="font-size:10px"
+         style="font-size:10px;line-height:1.25"
          id="tspan4575">that on a successful save. If you cast this spell using a higher spell slot the damage increases by 1d10 for each additional level, </tspan><tspan
          sodipodi:role="line"
          x="61.82188"
          y="233.14001"
-         style="font-size:10px"
+         style="font-size:10px;line-height:1.25"
          id="tspan6566">to a maximum of 6d10.</tspan><tspan
          sodipodi:role="line"
          x="61.82188"
          y="245.64001"
-         style="font-size:10px"
-         id="tspan6568" /><tspan
+         style="font-size:10px;line-height:1.25"
+         id="tspan6568"> </tspan><tspan
          sodipodi:role="line"
          x="61.82188"
          y="258.14001"
-         style="font-size:10px"
+         style="font-size:10px;line-height:1.25"
          id="tspan4577"><tspan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
    id="tspan4581">Speak with Animals:</tspan> Casting time: 1 action. Range: Self. Components: V, S. Duration: 10 mins.</tspan><tspan
          sodipodi:role="line"
          x="61.82188"
          y="270.64001"
-         style="font-size:10px"
+         style="font-size:10px;line-height:1.25"
          id="tspan4633">     You gain the ability to comprehend and verbally communicate with beasts for the duration.</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#808080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#808080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="692.67944"
        y="133.1813"
-       id="text4227-2-3-5-4-4-4-3-9"
-       sodipodi:linespacing="125%"><tspan
+       id="text4227-2-3-5-4-4-4-3-9"><tspan
          sodipodi:role="line"
          id="tspan4229-9-4-6-4-2-4-6-8"
          x="692.67944"
          y="133.1813"
-         style="font-size:10px;text-align:start;text-anchor:start;fill:#808080;fill-opacity:1">2</tspan></text>
+         style="font-size:10px;line-height:1.25;text-align:start;text-anchor:start;fill:#808080;fill-opacity:1">2</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:0.98431373;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:0.98431373;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="232.93892"
        y="133.1813"
-       id="text4227-2-3-5-4-4-4-5"
-       sodipodi:linespacing="125%"><tspan
+       id="text4227-2-3-5-4-4-4-5"><tspan
          sodipodi:role="line"
          id="tspan4229-9-4-6-4-2-4-1"
          x="232.93892"
          y="133.1813"
-         style="font-size:12.5px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:0.98431373">2 / LONG REST</tspan></text>
+         style="font-size:12.5px;line-height:1.25;text-align:start;text-anchor:start;fill:#000000;fill-opacity:0.98431373">2 / LONG REST</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="314.46936"
        y="38.490063"
-       id="text4223-85-3-4-0"
-       sodipodi:linespacing="125%"><tspan
+       id="text4223-85-3-4-0"><tspan
          sodipodi:role="line"
          x="314.46936"
          y="38.490063"
-         style="font-size:12.5px"
-         id="tspan6759-7">Ranger : 2</tspan></text>
+         style="font-size:12.5px;line-height:1.25"
+         id="tspan6759-7">Ranger : 3</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:17.5px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="150.51273"
        y="414.95596"
-       id="text4613"
-       sodipodi:linespacing="125%"><tspan
+       id="text4613"><tspan
          sodipodi:role="line"
          id="tspan4615"
          x="150.51273"
-         y="414.95596" /></text>
+         y="414.95596"
+         style="font-size:17.5px;line-height:1.25"> </tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot4497"
-       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:17.5px;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;text-align:start"><flowRegion
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
          id="flowRegion4499"><rect
            id="rect4501"
            width="231.32494"
            height="101.01525"
            x="56.568542"
            y="-13.348723" /></flowRegion><flowPara
-         id="flowPara4503" /></flowRoot>    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:17.5px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="76.838287"
-       y="49.800911"
-       id="text6948"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan6950"
-         x="76.838287"
-         y="49.800911"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Castellar;-inkscape-font-specification:Castellar">HEDGIE (HEGEMONY)</tspan></text>
-  </g>
+         id="flowPara4503"
+         style="font-size:17.5px;line-height:1.25"> </flowPara></flowRoot>  </g>
 </svg>
