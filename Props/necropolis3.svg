@@ -16,7 +16,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="necropolis2.svg">
+   sodipodi:docname="necropolis3.svg">
   <defs
      id="defs2">
     <filter
@@ -238,7 +238,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="2"
      inkscape:cx="324.00828"
-     inkscape:cy="505.58425"
+     inkscape:cy="545.58425"
      inkscape:document-units="mm"
      inkscape:current-layer="layer3"
      showgrid="false"
@@ -268,7 +268,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
