@@ -15,7 +15,7 @@
    viewBox="0 0 744.09448819 1052.3622047"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="enna.svg">
   <defs
      id="defs4" />
@@ -27,15 +27,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="375.86798"
-     inkscape:cy="330.65289"
+     inkscape:cx="272.51092"
+     inkscape:cy="416.36718"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
+     inkscape:window-width="1280"
+     inkscape:window-height="657"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1">
@@ -61,7 +61,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1075,34 +1075,37 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:0.98431373;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="320.07315"
-       y="682.81903"
-       id="text4227-2-3-5-4-4"><tspan
+       y="630.67615"
+       id="text4227-2-3-5-4-4"
+       sodipodi:linespacing="0%"><tspan
          sodipodi:role="line"
          id="tspan4229-9-4-6-4-2"
          x="320.07315"
-         y="682.81903"
+         y="630.67615"
          style="font-size:12.5px;line-height:1.25;text-align:start;text-anchor:start;fill:#000000;fill-opacity:0.98431373">LEVEL 2:</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:0.98431373;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="403.19098"
-       y="682.46191"
-       id="text4227-2-3-5-4-4-4"><tspan
+       y="630.31903"
+       id="text4227-2-3-5-4-4-4"
+       sodipodi:linespacing="0%"><tspan
          sodipodi:role="line"
          id="tspan4229-9-4-6-4-2-4"
          x="403.19098"
-         y="682.46191"
+         y="630.31903"
          style="font-size:12.5px;line-height:1.25;text-align:start;text-anchor:start;fill:#000000;fill-opacity:0.98431373">SPELL SLOTS:</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#808080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="625.0166"
-       y="682.46191"
-       id="text4227-2-3-5-4-4-4-3"><tspan
+       y="630.31903"
+       id="text4227-2-3-5-4-4-4-3"
+       sodipodi:linespacing="0%"><tspan
          sodipodi:role="line"
          id="tspan4229-9-4-6-4-2-4-6"
          x="625.0166"
-         y="682.46191"
+         y="630.31903"
          style="font-size:10px;line-height:1.25;text-align:start;text-anchor:start;fill:#808080;fill-opacity:1">SPELLS KNOWN:</tspan></text>
     <rect
        style="opacity:1;fill:none;fill-opacity:1;stroke:#808080;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -1117,7 +1120,7 @@
        width="441.04379"
        height="23.390217"
        x="289.6705"
-       y="664.22412" />
+       y="612.08124" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#808080;fill-opacity:0.99215686;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1879,7 +1882,8 @@
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="571.52362"
        y="137.4196"
-       id="text4223-85-3"><tspan
+       id="text4223-85-3"
+       sodipodi:linespacing="0%"><tspan
          sodipodi:role="line"
          id="tspan4225-7-5"
          x="571.52362"
@@ -1980,7 +1984,7 @@
          x="571.52362"
          y="362.41962"
          style="font-size:10px;line-height:1.25"
-         id="tspan1232"> </tspan><tspan
+         id="tspan1232" /><tspan
          sodipodi:role="line"
          x="571.52362"
          y="374.91962"
@@ -1997,91 +2001,97 @@
          x="571.52362"
          y="399.91962"
          style="font-size:10px;line-height:1.25"
-         id="tspan1246">can attack as a player action</tspan></text>
+         id="tspan1246">can attack as a player action</tspan><tspan
+         sodipodi:role="line"
+         x="571.52362"
+         y="412.41962"
+         style="font-size:10px;line-height:1.25"
+         id="tspan4558" /><tspan
+         sodipodi:role="line"
+         x="571.52362"
+         y="424.91962"
+         style="font-size:10px;line-height:1.25"
+         id="tspan4560"><tspan
+   style="font-weight:bold"
+   id="tspan4562">Fighting Familiar:</tspan> Familiar</tspan><tspan
+         sodipodi:role="line"
+         x="571.52362"
+         y="437.41962"
+         style="font-size:10px;line-height:1.25"
+         id="tspan4564">can cast spells at range </tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="319.1149"
-       y="585.41528"
-       id="text4223-85-3-1"><tspan
+       y="571.84387"
+       id="text4223-85-3-1"
+       sodipodi:linespacing="0%"><tspan
          sodipodi:role="line"
          x="319.1149"
-         y="585.41528"
+         y="571.84387"
          style="font-size:12.5px;line-height:1.25"
-         id="tspan6399">Eldritch Blast</tspan><tspan
+         id="tspan6399">Minor Illusion</tspan><tspan
          sodipodi:role="line"
          x="319.1149"
-         y="601.04028"
+         y="587.46887"
          style="font-size:12.5px;line-height:1.25"
-         id="tspan6401"> </tspan><tspan
+         id="tspan6409">Eldritch (fire) Blast </tspan><tspan
          sodipodi:role="line"
          x="319.1149"
-         y="616.66528"
-         style="font-size:12.5px;line-height:1.25"
-         id="tspan6403">Friends</tspan><tspan
-         sodipodi:role="line"
-         x="319.1149"
-         y="632.29028"
-         style="font-size:12.5px;line-height:1.25"
-         id="tspan6409"> </tspan><tspan
-         sodipodi:role="line"
-         x="319.1149"
-         y="647.91528"
+         y="603.09387"
          style="font-size:12.5px;line-height:1.25"
          id="tspan6411">Thaumaturgy</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#808080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="714.92017"
-       y="682.46191"
-       id="text4227-2-3-5-4-4-4-3-9"><tspan
+       y="630.31903"
+       id="text4227-2-3-5-4-4-4-3-9"
+       sodipodi:linespacing="0%"><tspan
          sodipodi:role="line"
          id="tspan4229-9-4-6-4-2-4-6-8"
          x="714.92017"
-         y="682.46191"
+         y="630.31903"
          style="font-size:10px;line-height:1.25;text-align:start;text-anchor:start;fill:#808080;fill-opacity:1">4</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:0.98431373;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="493.75116"
-       y="682.46191"
-       id="text4227-2-3-5-4-4-4-5"><tspan
+       y="630.31903"
+       id="text4227-2-3-5-4-4-4-5"
+       sodipodi:linespacing="0%"><tspan
          sodipodi:role="line"
          id="tspan4229-9-4-6-4-2-4-1"
          x="493.75116"
-         y="682.46191"
+         y="630.31903"
          style="font-size:12.5px;line-height:1.25;text-align:start;text-anchor:start;fill:#000000;fill-opacity:0.98431373">2 / SHORT REST</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="313.05399"
-       y="718.75549"
-       id="text4223-85-3-1-2"><tspan
+       y="654.46979"
+       id="text4223-85-3-1-2"
+       sodipodi:linespacing="0%"><tspan
          sodipodi:role="line"
          x="313.05399"
-         y="718.75549"
+         y="654.46979"
          style="font-size:12.5px;line-height:1.25"
-         id="tspan6399-4">Burning Hands</tspan><tspan
+         id="tspan6399-4">Hellish Rebuke</tspan><tspan
          sodipodi:role="line"
          x="313.05399"
-         y="734.38049"
+         y="670.09479"
          style="font-size:12.5px;line-height:1.25"
-         id="tspan6573"> </tspan><tspan
+         id="tspan6573">Command</tspan><tspan
          sodipodi:role="line"
          x="313.05399"
-         y="750.00549"
+         y="685.71979"
          style="font-size:12.5px;line-height:1.25"
-         id="tspan6575">Command</tspan><tspan
+         id="tspan4586">Unseen Servant</tspan><tspan
          sodipodi:role="line"
          x="313.05399"
-         y="765.63049"
+         y="701.34479"
          style="font-size:12.5px;line-height:1.25"
-         id="tspan6577"> </tspan><tspan
-         sodipodi:role="line"
-         x="313.05399"
-         y="781.25549"
-         style="font-size:12.5px;line-height:1.25"
-         id="tspan6411-2">Hex</tspan></text>
+         id="tspan4572">Misty Step</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
