@@ -16,7 +16,7 @@
    version="1.1"
    id="svg1706"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="necropolisNow.svg"
+   sodipodi:docname="necropolisNow.svg.2019_06_13_15_45_17.0.svg"
    inkscape:export-filename="C:\Users\Greg\Documents\GitHub\Turmilven\Props\necropolisNow.png"
    inkscape:export-xdpi="496.01627"
    inkscape:export-ydpi="496.01627">
@@ -538,9 +538,9 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1.5040197"
      inkscape:cx="490.65484"
-     inkscape:cy="518.60657"
+     inkscape:cy="226.05721"
      inkscape:document-units="mm"
-     inkscape:current-layer="g1579"
+     inkscape:current-layer="layer13"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -554,7 +554,7 @@
      inkscape:snap-intersection-paths="true"
      inkscape:snap-center="true"
      inkscape:snap-nodes="true"
-     inkscape:snap-global="true"
+     inkscape:snap-global="false"
      inkscape:object-nodes="true"
      inkscape:snap-bbox="true">
     <sodipodi:guide
@@ -629,7 +629,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -6264,7 +6264,7 @@
      inkscape:groupmode="layer"
      id="layer8"
      inkscape:label="changingRoomObscure"
-     style="display:none">
+     style="display:inline">
     <path
        style="opacity:1;fill:#00000d;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="M 92.091625,158.95377 C 90.082885,156.211 89.000001,152.89968 89,149.5 H 71 c 0,7.22433 2.30113,14.26087 6.569704,20.08927 z"
@@ -6275,7 +6275,7 @@
        inkscape:transform-center-y="10.044635" />
   </g>
   <g
-     style="display:none"
+     style="display:inline"
      inkscape:label="thinBoneObscure"
      id="g1548"
      inkscape:groupmode="layer">
@@ -6330,21 +6330,69 @@
      style="display:inline"
      inkscape:groupmode="layer"
      id="g1589"
-     inkscape:label="morgueObscure copy">
+     inkscape:label="chapelObscure">
     <path
-       inkscape:transform-center-y="32"
-       inkscape:transform-center-x="32"
+       inkscape:transform-center-y="-32.211223"
+       inkscape:transform-center-x="-31.599945"
        sodipodi:nodetypes="csccscc"
        inkscape:connector-curvature="0"
        id="path1587"
-       d="m 105,183.5 c -9.017361,0 -17.665394,-3.58213 -24.041631,-9.95837 C 74.582132,167.16539 71,158.51736 71,149.5 H 41 c 10e-7,16.97385 6.742839,33.2525 18.745166,45.25483 C 71.747494,206.75716 88.026144,213.5 105,213.5 Z"
+       d="m 104.57756,115.50262 c 9.01667,-0.11203 17.70854,3.36237 24.16351,9.6589 6.45496,6.29652 10.14427,14.89938 10.25631,23.91604 l 29.99768,-0.37273 c -0.21089,-16.97254 -7.15547,-33.16616 -19.30599,-45.01844 -12.15053,-11.852279 -28.5117,-18.392343 -45.48424,-18.18145 z"
        style="opacity:1;fill:#00000d;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  </g>
+  <g
+     inkscape:label="archiveObscure"
+     id="g1547"
+     inkscape:groupmode="layer"
+     style="display:inline">
+    <path
+       style="opacity:1;fill:#00000d;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 139,149.50382 c -0.001,9.01737 -3.58412,17.665 -9.96108,24.04052 -6.37695,6.37551 -15.02539,9.95668 -24.04274,9.95566 l -0.003,30 c 16.97385,0.002 33.25326,-6.7391 45.25695,-18.74007 C 162.25342,182.75895 168.99809,166.48106 169,149.50721 Z"
+       id="path1545"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csccscc"
+       inkscape:transform-center-x="-31.99659"
+       inkscape:transform-center-y="32.001911" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer12"
+     inkscape:label="senatorsTombObscure">
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1552"
+       width="69.487404"
+       height="37.822254"
+       x="84.968132"
+       y="235.07706"
+       ry="1.1534882" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:0.99999999, 0.99999999;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1554"
+       width="16.008505"
+       height="50.66423"
+       x="146.71516"
+       y="191.44951"
+       ry="1.1534882" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer13"
+     inkscape:label="imperialTombObscure">
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:0.99999999, 0.99999999;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1557"
+       width="43.275696"
+       height="42.220188"
+       x="42.396107"
+       y="234.19746"
+       ry="1.1534882" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer10"
      inkscape:label="ribsObscure"
-     style="display:none">
+     style="display:inline">
     <path
        style="display:inline;opacity:1;fill:#00000d;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 90.648284,142.92905 c 1.480886,-2.97246 2.206395,-4.38574 4.958559,-6.3816 l -10.567331,-14.5716 c -5.848335,4.24121 -8.258639,7.94807 -10.910764,13.33002 z"
@@ -6358,7 +6406,7 @@
      inkscape:label="knucklesObscure"
      id="g1556"
      inkscape:groupmode="layer"
-     style="display:none">
+     style="display:inline">
     <path
        inkscape:transform-center-y="-7.2013604"
        inkscape:transform-center-x="23.944306"
@@ -6369,7 +6417,7 @@
        style="display:inline;opacity:1;fill:#00000d;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
   </g>
   <g
-     style="display:none"
+     style="display:inline"
      inkscape:groupmode="layer"
      id="g1560"
      inkscape:label="ArchiveStairsObscure">
@@ -6386,7 +6434,7 @@
      inkscape:groupmode="layer"
      id="layer9"
      inkscape:label="embalmingRoomObscure"
-     style="display:none">
+     style="display:inline">
     <path
        inkscape:transform-center-y="22.24663"
        inkscape:transform-center-x="13.684323"
@@ -6397,7 +6445,7 @@
        style="display:inline;opacity:1;fill:#00000d;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
   </g>
   <g
-     style="display:none"
+     style="display:inline"
      inkscape:label="embalmingStoreRoomObscure"
      id="g1536"
      inkscape:groupmode="layer">
@@ -6414,7 +6462,7 @@
      inkscape:groupmode="layer"
      id="g1540"
      inkscape:label="skullRoomObscure"
-     style="display:none">
+     style="display:inline">
     <path
        inkscape:transform-center-y="4.91144"
        inkscape:transform-center-x="-23.777459"
@@ -6440,7 +6488,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="playerToken"
-     style="display:inline">
+     style="display:none">
     <circle
        style="opacity:1;fill:#800080;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path863"
